@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of antoinefr/flarum-ext-online.** Not for installation: use [Packagist](https://packagist.org/packages/antoinefr/flarum-ext-online) or the [upstream repository](https://github.com/AntoineFr/flarum-ext-online).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/antoinefr-flarum-ext-online/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
+**7** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/antoinefr-flarum-ext-online/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.5.0` | 2021-05-10 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-online/tree/archive/v0.5.0) |
+| `v1.0.0` | 2021-06-05 | `^1.0.0` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-online/tree/archive/v1.0.0) |
+| `v1.0.1` | 2021-06-05 | `^1.0.0` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-online/tree/archive/v1.0.1) |
+| `0.2.0` | 2018-02-24 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-online/tree/archive/v0.2.0) |
+| `0.3.0` | 2018-04-22 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-online/tree/archive/v0.3.0) |
+| `0.4.0` | 2019-07-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-online/tree/archive/v0.4.0) |
+| `v0.1.0` | 2018-01-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-online/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/antoinefr-flarum-ext-online.json](https://github.com/flarchive/archive-index/blob/main/packages/antoinefr-flarum-ext-online.json)
 
